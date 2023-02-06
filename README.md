@@ -55,6 +55,6 @@ xyz
 ## 7.REPOSITORY GUIDE
 Below are the links for the varoious documentations for this project
 - Data Set [here](paste url inside the brackets)
-- Data Report can for the project can be found [here](url)
+- Data Report [here](https://docs.google.com/document/d/10iNv7Ajx8poz9PXEvR0HqUwtP92XJbQdmwehJqBPvU8/edit#)
 - Notebook [here](url)
 - Presentaion slides [here](url)
